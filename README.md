@@ -1,18 +1,18 @@
-## Getting Started
+# TicTacToe Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to my TicTacToe game made in Java Language ☕
 
-## Folder Structure
+## Purpose
 
-The workspace contains two folders by default, where:
+I've worked in this project because i am trying to apply some concepts of Design Patterns!  
+  
+It's just an old project that i have developed in the faculty.👨‍💻
+  
+Im interested in made some changes in the future, so upgrades will come soon!! :)  
+  
+The Design Patterns applied is:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `Facade`
+- `Mediator`
+  
+This is a game that runs in CLI, without any GUI;
